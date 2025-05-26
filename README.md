@@ -13,7 +13,8 @@ No spoilers here — the less you know, the better the experience!
 
 ## How to run
 
-From our channel in telegram https://t.me/CodeMatrixx
+"We have uploaded the exe file to our Telegram channel: https://t.me/CodeMatrixx"
+
 ---
 
 ## 🧑‍💻 Creators
@@ -29,7 +30,6 @@ We built this to learn, grow, and have fun creating something mysterious with co
 
 ## Files included
 
-- `Haunted-Castle.exe` → The game executable (compiled from Visual Studio)  
 - `Program.cs` → Main source code  
 - `Haunted-Castle.csproj` → Project configuration  
 - `README.md` → Information about the game
