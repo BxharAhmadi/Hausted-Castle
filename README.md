@@ -2,9 +2,6 @@
 
 A console-based horror game made with C#.
 
-> 🛜 **Note:** This game **requires an internet connection** at launch. It streams background music directly from the web so that all players can run the game without needing to download or place the audio file manually.  
-The startup time depends on your internet speed — please be patient if the screen is black at first. The game will start as soon as the music loads.
-
 ---
 
 ## What is this game?
@@ -16,16 +13,7 @@ No spoilers here — the less you know, the better the experience!
 
 ## How to run
 
-1. Download the latest `.exe` file from this repository.  
-2. Make sure you are connected to the internet.  
-3. Double-click the `.exe` file to run the game.  
-4. **Important:**  
-   - Please **run the game in full-screen mode** for the best experience and proper text display.  
-   - We strongly recommend using a **laptop or desktop** — full-screen mode may not work correctly on mobile devices.  
-   - **Don’t worry if Windows warns you "Don’t run this file" or shows a security alert.**  
-     This `.exe` file is safe and will not harm your laptop — it’s just a normal console game compiled by us.  
-5. Wait a few seconds for the music to load — then enjoy the game! 
-
+From our channel in telegram https://t.me/CodeMatrixx
 ---
 
 ## 🧑‍💻 Creators
